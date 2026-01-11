@@ -1,7 +1,6 @@
 {
-  "name": "sfl-bypasser-vercel",
+  "name": "sfl-bypasser-2026",
   "version": "1.0.0",
-  "main": "api/bypass.js",
   "dependencies": {
     "@sparticuz/chromium": "latest",
     "puppeteer-core": "latest",
